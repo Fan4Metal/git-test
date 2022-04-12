@@ -10,7 +10,7 @@ print("skfksmfkmskdsfksdmkfmksdmfmkf")
 
 
 
-print("skfksmfkmskf")
+print("skfksmf11111111111111111111111111111111111111kmskf")
 print("skfksmfkmskf")
 print("skfksmfkmskf")
 print("skfksmfkmskf")
